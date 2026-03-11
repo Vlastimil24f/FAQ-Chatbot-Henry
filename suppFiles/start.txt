@@ -1,0 +1,7 @@
+cd "/Users/v/Documents/V - Archive/New Archive/Projects/FAQ Chatbot - Henry"
+
+source venv/bin/activate
+
+streamlit run app.py
+
+https://henry-faq.streamlit.app

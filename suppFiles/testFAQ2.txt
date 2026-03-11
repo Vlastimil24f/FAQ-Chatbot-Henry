@@ -1,0 +1,74 @@
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, PayPal, Apple Pay, and Google Pay.
+
+Q: How long does shipping usually take?
+A: Standard shipping takes 3–5 business days, while express shipping takes 1–2 business days.
+
+Q: Do you ship internationally?
+A: Yes, we offer international shipping to most countries. Shipping times vary by region.
+
+Q: Can I track my order?
+A: Yes, once your order ships, you'll receive a tracking link via email.
+
+Q: What is your return policy?
+A: You can return unused items within 30 days for a full refund.
+
+Q: How do I request a refund?
+A: Contact our support team with your order number, and we’ll initiate the refund process.
+
+Q: Do you offer exchanges?
+A: Yes, exchanges are available for size or color changes within 30 days.
+
+Q: My package arrived damaged, what should I do?
+A: Please send us photos of the damaged item and packaging, and we will arrange a replacement.
+
+Q: Can I cancel my order?
+A: Orders can be canceled within 12 hours of purchase before they are processed.
+
+Q: Do you offer discounts for students?
+A: Yes, students can receive 10% off with a valid student ID.
+
+Q: How can I contact customer support?
+A: You can reach us via email at support@example.com or through live chat on our website.
+
+Q: Are your products covered by a warranty?
+A: Yes, all products come with a 1-year limited warranty.
+
+Q: Do you offer gift cards?
+A: Yes, digital gift cards are available in multiple amounts.
+
+Q: Can I change my shipping address after ordering?
+A: You can change the address within 2 hours of placing your order by contacting support.
+
+Q: What if my order is late?
+A: If your order is delayed more than 3 days past the expected date, please contact us for help.
+
+Q: Do you offer bulk or wholesale discounts?
+A: Yes, we offer bulk pricing for orders of 20 units or more.
+
+Q: Is my personal information secure?
+A: Yes, we use encryption and secure servers to protect all user data.
+
+Q: Do I need an account to make a purchase?
+A: No, you can check out as a guest, but creating an account gives you extra benefits.
+
+Q: How do I reset my password?
+A: Click “Forgot Password” on the login page, and we’ll send you reset instructions.
+
+Q: Can I see reviews from other customers?
+A: Yes, reviews are available on each product page.
+
+Q: Are your products environmentally friendly?
+A: Many of our items use sustainable materials and eco-friendly packaging.
+
+Q: Do you offer same-day delivery?
+A: Same-day delivery is available in select cities for orders placed before 2 PM.
+
+Q: What currencies do you support?
+A: Prices can be displayed and paid in USD, EUR, GBP, and AUD.
+
+Q: What happens if I receive the wrong item?
+A: Please contact us with your order number, and we’ll send the correct item immediately.
+
+Q: Do you have a loyalty program?
+A: Yes, customers earn points on every purchase that can be redeemed for discounts.

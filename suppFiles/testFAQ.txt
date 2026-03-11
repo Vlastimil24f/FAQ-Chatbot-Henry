@@ -1,0 +1,29 @@
+Q: Who is gonna cook tonight?
+A: Based on my calculations it is definitely Viki.
+
+Q: Do you offer international shipping?
+A: Yes, we ship to most countries worldwide. Shipping fees vary by region.
+
+Q: How can I track my order?
+A: Once your order is shipped, you will receive an email with a tracking link.
+
+Q: Can I return a product if I don't like it?
+A: Yes, we accept returns within 30 days of purchase as long as the item is unused.
+
+Q: Do you offer student discounts?
+A: Yes, students can receive a 10% discount by verifying their student status.
+
+Q: How long does delivery take?
+A: Standard delivery usually takes 3–5 business days.
+
+Q: What payment methods do you accept?
+A: We accept credit cards, PayPal, Apple Pay, and Google Pay.
+
+Q: Is my personal data secure?
+A: Yes, we use industry-standard encryption to protect your information.
+
+Q: Do you have a physical store?
+A: Yes, our main store is located in London, and we plan to expand soon.
+
+Q: How can I contact customer support?
+A: You can reach our support team via email at support@example.com or by phone.

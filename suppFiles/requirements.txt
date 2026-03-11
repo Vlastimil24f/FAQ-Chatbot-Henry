@@ -1,0 +1,7 @@
+streamlit
+transformers
+torch
+accelerate
+scikit-learn
+PyPDF2
+python-docx

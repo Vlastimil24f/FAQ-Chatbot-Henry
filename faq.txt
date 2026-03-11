@@ -1,0 +1,310 @@
+Q: What are your shipping options?
+A: We offer standard, express, and next-day delivery depending on your location.
+
+Q: How long does standard delivery take?
+A: Standard delivery takes 3–5 business days.
+
+Q: Do you ship internationally?
+A: Yes, we ship to most countries. Shipping fees vary based on region.
+
+Q: How can I track my order?
+A: You will receive a tracking link via email once your order has been shipped.
+
+Q: What is your return policy?
+A: You can return items within 30 days of delivery as long as they are unused and in original packaging.
+
+Q: How do I initiate a return?
+A: Contact our support team with your order number, and they will guide you through the process.
+
+Q: Do you offer refunds?
+A: Yes, refunds are issued once the returned item is inspected and approved.
+
+Q: How long do refunds take?
+A: Refunds typically take 3–7 business days to appear back in your bank account.
+
+Q: Can I change or cancel my order?
+A: Orders can be changed or cancelled within the first hour after being placed.
+
+Q: What payment methods do you accept?
+A: We accept credit cards, PayPal, Apple Pay, and Google Pay.
+
+Q: Is my payment information secure?
+A: Yes, we use encrypted payment systems to ensure your data is secure.
+
+Q: Do you offer any discounts or promotions?
+A: Yes, we frequently run seasonal sales and special promotions for subscribers.
+
+Q: Can I use multiple discount codes on one order?
+A: Only one discount code can be applied per order.
+
+Q: Do you have a loyalty program?
+A: Yes, our loyalty program rewards you with points for every purchase.
+
+Q: How can I contact customer support?
+A: You can reach our support team via email or live chat on our website.
+
+Q: What are your customer support hours?
+A: Our support team is available Monday to Friday from 9 AM to 6 PM.
+
+Q: Do you have a physical store?
+A: Yes, we have one flagship store located in London.
+
+Q: Are your products covered by a warranty?
+A: Yes, all products include a 1-year warranty against manufacturing defects.
+
+Q: What should I do if I received a damaged item?
+A: Contact our support team within 48 hours with photos, and we will assist immediately.
+
+Q: Can I change my delivery address after placing an order?
+A: Yes, as long as the order has not been shipped yet.
+
+Q: Do you offer gift cards?
+A: Yes, digital gift cards are available in multiple amounts.
+
+Q: Can I get gift wrapping?
+A: Yes, gift wrapping can be added during checkout for a small fee.
+
+Q: Do you offer student or military discounts?
+A: Yes, verified students and military members receive exclusive discounts.
+
+Q: What should I do if I didn’t receive my order?
+A: Contact support with your order number and we will investigate immediately.
+
+Q: Are all products in stock?
+A: Most products are in stock, but some items may have limited availability.
+
+Q: When will my order arrive?
+A: Orders typically arrive within our standard delivery window of 3–5 business days.
+
+Q: What is the estimated arrival time?
+A: Most orders arrive within 3–5 business days depending on your location.
+
+Q: When should I expect my package to show up?
+A: Standard delivery usually arrives in 3–5 business days.
+
+Q: What is the delivery arrival window?
+A: Our standard arrival window is between 3–5 business days.
+
+Q: How do I place an order?
+A: Simply add items to your cart and proceed to checkout to complete your purchase.
+
+Q: Can I edit my order after placing it?
+A: Orders cannot be edited once submitted, but you may cancel within a short window.
+
+Q: Can I cancel my order?
+A: Yes, you can cancel your order within 1 hour of purchase from your account page.
+
+Q: Why was my order canceled automatically?
+A: Orders may auto-cancel if payment fails or items go out of stock.
+
+Q: How do I use a discount code?
+A: Enter your discount code at checkout and the discount will be applied automatically.
+
+Q: Why isn't my discount code working?
+A: The code may be expired or not applicable to the items in your cart.
+
+Q: Can I place an order without creating an account?
+A: Yes, we support guest checkout for quick purchases.
+
+Q: How do I change the shipping address on my order?
+A: Shipping addresses cannot be changed after an order is confirmed.
+
+Q: Do you ship internationally?
+A: Yes, we ship to most countries worldwide.
+
+Q: Is there a minimum order amount?
+A: No, there is no minimum order required.
+
+Q: Do you offer express shipping?
+A: Yes, express shipping options are available at checkout for an additional cost.
+
+Q: How long does express delivery take?
+A: Express delivery typically takes 1–2 business days.
+
+Q: How long does economy shipping take?
+A: Economy shipping takes 5–8 business days.
+
+Q: Do you ship on weekends?
+A: We ship Monday through Friday excluding holidays.
+
+Q: Why is my shipping cost so high?
+A: Shipping costs depend on weight, location, and chosen delivery method.
+
+Q: Do you offer free shipping?
+A: Free shipping is available for orders above the minimum threshold.
+
+Q: Can I schedule a specific delivery date?
+A: At this time, we do not support scheduled delivery dates.
+
+Q: Do you offer local pickup?
+A: Local pickup is available in select locations.
+
+Q: My package says delivered but I didn’t receive it. What should I do?
+A: Please check with neighbors and contact support if the package remains missing.
+
+Q: Why is my delivery delayed?
+A: Delivery delays may occur due to carrier issues or extreme weather.
+
+Q: How can I track my order?
+A: You can track your order using the link provided in your confirmation email.
+
+Q: When will my order arrive?
+A: Most orders arrive within our standard delivery window of 3–5 business days.
+
+Q: What is the arrival window?
+A: The arrival window is typically 3–5 business days after shipment.
+
+Q: My tracking number isn’t updating. Is that normal?
+A: Tracking updates may take up to 48 hours to appear.
+
+Q: What courier do you use for delivery?
+A: We partner with multiple couriers depending on region and order type.
+
+Q: Why does my tracking show “in transit” for several days?
+A: Longer in-transit times may occur due to customs or carrier delays.
+
+Q: My package is marked as “returned to sender.” What now?
+A: Contact our support team and we’ll assist with reshipment or a refund.
+
+Q: Can I change the delivery address after my order ships?
+A: Address changes are not possible after shipment.
+
+Q: What is your return policy?
+A: You may return items within 30 days in their original condition.
+
+Q: How do I start a return?
+A: Start a return through your account or contact support for assistance.
+
+Q: When will I receive my refund?
+A: Refunds are issued within 5–7 business days after we receive your returned item.
+
+Q: Do you offer free returns?
+A: Free returns are available for defective or incorrect items.
+
+Q: Can I exchange an item instead of returning it?
+A: Yes, exchanges are available for select products.
+
+Q: I received a damaged item. What should I do?
+A: Please contact support immediately with photos of the damage.
+
+Q: Can I return an item without the original packaging?
+A: Returns must include original packaging to be accepted.
+
+Q: Why was my return denied?
+A: Returns may be denied if items show wear or are missing components.
+
+Q: Can I return sale items?
+A: Sale items are final and cannot be returned.
+
+Q: What payment methods do you accept?
+A: We accept major credit cards, PayPal, Apple Pay, and Google Pay.
+
+Q: Why was my payment declined?
+A: Payments may fail due to insufficient funds or incorrect billing details.
+
+Q: Can I pay with multiple cards?
+A: We currently do not support split payments.
+
+Q: Do you offer financing options?
+A: Yes, financing is available through third-party partners during checkout.
+
+Q: Can I get an invoice for my order?
+A: Invoices are automatically emailed upon purchase.
+
+Q: Why was I charged twice?
+A: Duplicate charges are usually temporary authorizations and will clear.
+
+Q: Do your products come with instructions?
+A: Yes, each product includes a detailed instruction manual.
+
+Q: Are your products covered by a warranty?
+A: Most products come with a 12-month warranty.
+
+Q: Are your products safe for children?
+A: Product safety varies; please review the specific age recommendations.
+
+Q: Do you offer product customization?
+A: Some items can be customized at checkout where available.
+
+Q: Are replacement parts available?
+A: Yes, replacement parts can be ordered through support.
+
+Q: Will you restock sold-out items?
+A: Restock dates vary; you can sign up for notifications on the product page.
+
+Q: How do I create an account?
+A: You can create an account during checkout or from the account page.
+
+Q: I forgot my password. What should I do?
+A: Click “Forgot Password” to reset it via email.
+
+Q: How do I change my account details?
+A: Log in and navigate to account settings to update your information.
+
+Q: How do I delete my account?
+A: Contact support to permanently delete your account.
+
+Q: Why can’t I log in?
+A: Login issues may be caused by incorrect credentials or disabled accounts.
+
+Q: How do I claim a warranty?
+A: Submit a warranty claim through your account or contact support.
+
+Q: What does the warranty cover?
+A: The warranty covers manufacturing defects only.
+
+Q: How long do repairs take?
+A: Repairs typically take 7–14 business days.
+
+Q: Do you offer extended warranties?
+A: Extended warranties are available on select items.
+
+Q: How do I cancel my subscription?
+A: You can cancel anytime through your account page.
+
+Q: Will I be charged automatically each month?
+A: Yes, subscriptions renew automatically unless canceled.
+
+Q: How do I change my subscription plan?
+A: Edit your plan in your account settings.
+
+Q: Why isn’t the website working for me?
+A: Try clearing your browser cache or using a different device.
+
+Q: Why can’t I add items to my cart?
+A: This may occur if the item is out of stock or your browser is blocking scripts.
+
+Q: Why didn’t I get a confirmation email?
+A: Please check your spam folder; confirm your email address is correct.
+
+Q: Do you charge tax?
+A: Taxes are calculated at checkout based on your location.
+
+Q: Do you offer price matching?
+A: We currently do not offer price matching.
+
+Q: Do you offer gift cards?
+A: Yes, both digital and physical gift cards are available.
+
+Q: How do I contact customer support?
+A: You can reach support via email, chat, or our help center.
+
+Q: Do you have a loyalty program?
+A: Yes, loyalty rewards are earned with every purchase.
+
+Q: Where are you located?
+A: Our headquarters are listed on our contact page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
